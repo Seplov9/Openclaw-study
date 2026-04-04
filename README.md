@@ -4,7 +4,7 @@
 
 ### kimi code
 
-''' python
+'''python
 "kimi": {
         "baseUrl": "https://api.kimi.com/coding/",
         "api": "anthropic-messages",
@@ -33,7 +33,7 @@
 
 ### kimi api
 
-''' python
+'''python
 "moonshot": {
         "baseUrl": "https://api.moonshot.cn/v1",
         "api": "openai-completions",
