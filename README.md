@@ -7,6 +7,7 @@
 ```python
 "kimi": {
         "baseUrl": "https://api.kimi.com/coding/",
+        "apiKey": "API_KEY",
         "api": "anthropic-messages",
         "models": [
           {
