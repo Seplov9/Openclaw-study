@@ -68,7 +68,7 @@
 ## 网址
 
 ### Anthropic
-网址：anthropic.com/
+网址：anthropic.com
 
 ### Claude
 网址：claude.com
@@ -93,6 +93,8 @@
 
 官网：`https://nodejs.org/en/download`
 
+配置npm国内镜像仓库
+
 ### Git安装
 
 ## Claude Code安装
@@ -110,6 +112,12 @@
 手册：kimi.com/code/docs
 
 配置Claude Code：kimi.com/code/docs/more/third-party-agents
+
+
+# 星火Api
+网址：https://my.feishu.cn/wiki/Tlz7wcsb0iMJbgkYCiccV7bKnbd
+
+配置Claude Code：https://yoo7f1r4m4.feishu.cn/wiki/AYvFw9op3iEGAPkfgvMcugDinld
 
 ## Kimi api
 网址：platform.kimi.com
