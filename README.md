@@ -64,7 +64,28 @@
 
 
 # Claude Code
-## Node.js安装
+
+## 网址
+
+### Anthropic
+网址：anthropic.com/
+
+### Claude
+网址：claude.com
+
+### Claude Code
+网址：code.claude.com
+
+手册：code.claude.com/docs
+
+### Claude api
+网址：platform.claude.com
+
+手册：platform.claude.com/docs
+
+## 安装
+
+### Node.js安装
 
 教程1：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
@@ -72,7 +93,7 @@
 
 官网：`https://nodejs.org/en/download`
 
-## Git安装
+### Git安装
 
 ## Claude Code安装
 `npm install -g @anthropic-ai/claude-code`
@@ -80,17 +101,17 @@
 
 # Kimi
 
-# Kimi
+## Kimi
 网址：kimi.com
 
-# Kimi Code
+## Kimi Code
 网址：kimi.com/code
 
-手册：www.kimi.com/code/docs
+手册：kimi.com/code/docs
 
-配置Claude Code：www.kimi.com/code/docs/more/third-party-agents.html
+配置Claude Code：kimi.com/code/docs/more/third-party-agents
 
-# Kimi api
+## Kimi api
 网址：platform.kimi.com
 
 手册：platform.kimi.com/docs
