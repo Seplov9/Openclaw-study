@@ -1,6 +1,8 @@
 # Openclaw-study
 
-## kimi setting
+## 安装
+
+## kimi api setting
 
 ### kimi code
 
@@ -62,10 +64,36 @@
 
 
 # Claude Code
-## Node.js
+## Node.js安装
 
 教程1：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
 教程2：https://help.aliyun.com/zh/sdk/developer-reference/install-node-js-in-windows?spm=a2c4g.11186623.J_XmGx2FZCDAeIy2ZCWL7sW.35.47a72f356PhMlN&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@2793304._.RL_%E5%9C%A8windows%E5%AE%89%E8%A3%85node-LOC_2024NSHelpLink-OR_ser-PAR1_212c8ba317753874005025981d0dea-V_4-P0_0-P1_0
 
 官网：`https://nodejs.org/en/download`
+
+## Git安装
+
+## Claude Code安装
+`npm install -g @anthropic-ai/claude-code`
+
+
+# Kimi
+
+# Kimi
+网址：kimi.com
+
+# Kimi Code
+网址：kimi.com/code
+
+手册：www.kimi.com/code/docs
+
+配置Claude Code：www.kimi.com/code/docs/more/third-party-agents.html
+
+# Kimi api
+网址：platform.kimi.com
+
+手册：platform.kimi.com/docs
+
+配置Claude Code：platform.kimi.com/docs/guide/agent-suppor
+
