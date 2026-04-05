@@ -11,7 +11,7 @@
 
 教程2：https://help.aliyun.com/zh/sdk/developer-reference/install-node-js-in-windows?spm=a2c4g.11186623.J_XmGx2FZCDAeIy2ZCWL7sW.35.47a72f356PhMlN&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@2793304._.RL_%E5%9C%A8windows%E5%AE%89%E8%A3%85node-LOC_2024NSHelpLink-OR_ser-PAR1_212c8ba317753874005025981d0dea-V_4-P0_0-P1_0
 
-官网：`https://nodejs.org/en/download`
+官网：https://nodejs.org/en/download
 
 配置npm国内镜像仓库
 
@@ -91,6 +91,13 @@ api配置
   ```
 
 ---
+# 阿里云Openclaw服务器
+
+---
+# Openclaw继承第三方软件
+网址：https://help.aliyun.com/zh/simple-application-server/use-cases/openclaw-integrated-wechat?spm=a2c4g.11186623.help-menu-58607.d_3_0_0_6.3e9366eeMktzQW
+
+---
 # Claude Code
 
 ## 网址
@@ -119,7 +126,7 @@ api配置
 
 教程2：https://help.aliyun.com/zh/sdk/developer-reference/install-node-js-in-windows?spm=a2c4g.11186623.J_XmGx2FZCDAeIy2ZCWL7sW.35.47a72f356PhMlN&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@2793304._.RL_%E5%9C%A8windows%E5%AE%89%E8%A3%85node-LOC_2024NSHelpLink-OR_ser-PAR1_212c8ba317753874005025981d0dea-V_4-P0_0-P1_0
 
-官网：`https://nodejs.org/en/download`
+官网：https://nodejs.org/en/download
 
 配置npm国内镜像仓库
 
