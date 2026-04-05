@@ -62,7 +62,7 @@
       }
   ```
 
-
+---
 # Claude Code
 
 ## 网址
@@ -100,7 +100,7 @@
 ## Claude Code安装
 `npm install -g @anthropic-ai/claude-code`
 
-
+---
 # Kimi
 
 ## Kimi
@@ -113,7 +113,7 @@
 
 配置Claude Code：kimi.com/code/docs/more/third-party-agents
 
-
+---
 # 星火Api
 网址：https://my.feishu.cn/wiki/Tlz7wcsb0iMJbgkYCiccV7bKnbd
 
