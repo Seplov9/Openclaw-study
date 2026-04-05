@@ -61,7 +61,6 @@ api配置
       }
 ```
 
-
 ### kimi api
 
 ```python
@@ -94,7 +93,7 @@ api配置
 # 阿里云Openclaw服务器
 
 ---
-# Openclaw继承第三方软件
+# Openclaw集成第三方软件
 网址：https://help.aliyun.com/zh/simple-application-server/use-cases/openclaw-integrated-wechat?spm=a2c4g.11186623.help-menu-58607.d_3_0_0_6.3e9366eeMktzQW
 
 ---
