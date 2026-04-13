@@ -11,6 +11,8 @@
 
 教程2：https://help.aliyun.com/zh/sdk/developer-reference/install-node-js-in-windows?spm=a2c4g.11186623.J_XmGx2FZCDAeIy2ZCWL7sW.35.47a72f356PhMlN&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@2793304._.RL_%E5%9C%A8windows%E5%AE%89%E8%A3%85node-LOC_2024NSHelpLink-OR_ser-PAR1_212c8ba317753874005025981d0dea-V_4-P0_0-P1_0
 
+教程3：https://docs.openclaw.ai/install/node#linux
+
 官网：https://nodejs.org/en/download
 
 配置npm国内镜像仓库
@@ -92,9 +94,16 @@ api配置
 ---
 # 阿里云Openclaw服务器
 
----
-# Openclaw集成第三方软件
-网址：https://help.aliyun.com/zh/simple-application-server/use-cases/openclaw-integrated-wechat?spm=a2c4g.11186623.help-menu-58607.d_3_0_0_6.3e9366eeMktzQW
+# 手册
+## 大模型服务平台百炼
+网址：https://help.aliyun.com/zh/model-studio/what-is-model-studio
+
+## 轻量应用服务器
+网址：https://help.aliyun.com/zh/simple-application-server/
+集成第三方工具：https://help.aliyun.com/zh/simple-application-server/use-cases/openclaw-integrated-wechat?spm=a2c4g.11186623.help-menu-58607.d_3_0_0_6.3e9366eeMktzQW
+
+## 阿里云百炼
+网址：https://bailian.console.aliyun.com/cn-beijing?tab=doc#/doc
 
 ---
 # Claude Code
