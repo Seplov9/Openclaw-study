@@ -91,6 +91,53 @@ api配置
       }
   ```
 
+  ### openclaw.json
+
+  ```python
+  "auth": {
+    "profiles": {
+      "moonshot:default": {
+        "provider": "moonshot",
+        "mode": "api_key"
+      },
+      "kimi:default": {
+        "provider": "kimi",
+        "mode": "api_key"
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "moonshot": {
+
+      },
+      "kimi": {
+       
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "kimi/kimi-code"
+      },
+      "models": {
+        "moonshot/kimi-k2.5": {
+          "alias": "Kimi"
+        },
+        "kimi/kimi-code": {
+          "alias": "Kimi"
+        }
+      },
+      "workspace": "/home/cyk/.openclaw/workspace",
+      "compaction": {
+        "mode": "safeguard"
+      }
+    }
+  },
+  ```
+
 ---
 # 阿里云Openclaw服务器
 
