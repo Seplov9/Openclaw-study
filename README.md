@@ -211,7 +211,7 @@ api配置
 
 配置Claude Code：kimi.com/code/docs/more/third-party-agents
 
-## Kimi api
+## Kimi Api
 网址：platform.kimi.com
 
 手册：platform.kimi.com/docs
@@ -223,6 +223,11 @@ api配置
 网址：https://my.feishu.cn/wiki/Tlz7wcsb0iMJbgkYCiccV7bKnbd
 
 配置Claude Code：https://yoo7f1r4m4.feishu.cn/wiki/AYvFw9op3iEGAPkfgvMcugDinld
+
+
+---
+# Autodl Api
+网址：https://www.autodl.art/docs/claude-opus-4-6
 
 ---
 # 网络问题
