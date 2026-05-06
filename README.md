@@ -194,6 +194,8 @@ api配置
 `curl -v https://claude.ai/install.sh`  # test  
 `npm install -g @anthropic-ai/claude-code`  
 ```shell
+cyk@YingkaideMacBook-Air ~ % curl -fsSL https://claude.ai/install.sh | bash   
+curl: (35) Recv failure: Connection reset by peer
 cyk@YingkaideMacBook-Air ~ % curl -fsSL https://downloads.claude.ai/claude-code-releases/bootstrap.sh | bash
 Setting up Claude Code...
 
