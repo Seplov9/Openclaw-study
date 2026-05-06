@@ -3,7 +3,14 @@
 
 手册：docs.openclaw.ai
 
-## 安装
+## Homebrew安装
+网址：brew.sh
+
+下载homebrew.pkg
+
+配置环境变量：`export PATH="/opt/homebrew/bin:$PATH"`
+
+## Openclaw安装
 
 ### Node.js安装
 
@@ -219,7 +226,10 @@ Setting up Claude Code...
 ✅ Installation complete!
 ```
 
-### 配置Api
+### 配置环境变量
+`export PATH="$HOME/.local/bin:$PATH"`
+
+### 配置api
 #### Linux
 `export ANTHROPIC_AUTH_TOKEN="API_KEY"`
 
