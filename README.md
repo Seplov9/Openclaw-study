@@ -238,7 +238,7 @@ Setting up Claude Code...
 
 配置Claude Code：kimi.com/code/docs/more/third-party-agents
 
-## Kimi Api
+## Kimi api
 网址：platform.kimi.com
 
 手册：platform.kimi.com/docs
@@ -246,15 +246,19 @@ Setting up Claude Code...
 配置Claude Code：platform.kimi.com/docs/guide/agent-suppor
 
 ---
-# 星火Api
+# 星火api
 网址：https://my.feishu.cn/wiki/Tlz7wcsb0iMJbgkYCiccV7bKnbd
 
 配置Claude Code：https://yoo7f1r4m4.feishu.cn/wiki/AYvFw9op3iEGAPkfgvMcugDinld
 
 
 ---
-# Autodl Api
+# Autodl api
 网址：https://www.autodl.art/docs/claude-opus-4-6
+
+---
+# Deepseek api
+网址：https://api-docs.deepseek.com/zh-cn/guides/coding_agents
 
 ---
 # 网络问题
