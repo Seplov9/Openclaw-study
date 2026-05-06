@@ -169,6 +169,8 @@ api配置
 
 手册：code.claude.com/docs
 
+配置：code.claude.com/docs/en/troubleshoot-install
+
 ### Claude api
 网址：platform.claude.com
 
