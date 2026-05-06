@@ -190,7 +190,29 @@ api配置
 官网：git-scm.com
 
 ### Claude Code安装
-`npm install -g @anthropic-ai/claude-code`
+`curl -fsSL https://claude.ai/install.sh | bash`  
+`npm install -g @anthropic-ai/claude-code`  
+```python
+cyk@YingkaideMacBook-Air ~ % curl -fsSL https://downloads.claude.ai/claude-code-releases/bootstrap.sh | bash
+Setting up Claude Code...
+
+✔ Claude Code successfully installed!        
+                                                                         
+  Version: 2.1.129
+                                                                              
+  Location: ~/.local/bin/claude
+
+
+  Next: Run claude --help to get started
+
+⚠ Setup notes:
+  ● Native installation exists but ~/.local/bin is not in your PATH. Run:
+
+    echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
+
+
+✅ Installation complete!
+```
 
 ### 配置Api
 #### Linux
