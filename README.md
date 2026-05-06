@@ -191,8 +191,9 @@ api配置
 
 ### Claude Code安装
 `curl -fsSL https://claude.ai/install.sh | bash`  
+`curl -v https://claude.ai/install.sh`  # test  
 `npm install -g @anthropic-ai/claude-code`  
-```python
+```shell
 cyk@YingkaideMacBook-Air ~ % curl -fsSL https://downloads.claude.ai/claude-code-releases/bootstrap.sh | bash
 Setting up Claude Code...
 
