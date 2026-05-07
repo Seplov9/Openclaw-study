@@ -12,6 +12,10 @@
 
 注意在默认配置`export PATH="$HOME/.local/bin:$PATH"`前面，避免优先使用apple git
 
+配置镜像源：  
+`export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git"`  
+`export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"`
+
 ## Openclaw安装
 
 ### Node.js安装
