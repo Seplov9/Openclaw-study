@@ -16,7 +16,7 @@
 `export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git"`  
 `export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"`
 
-常用命令：
+常用命令：  
 brew update      # 更新 Homebrew 本身和软件清单  
 brew upgrade     # 升级已安装的软件到最新版本  
 brew cleanup     # 清理旧版本缓存
