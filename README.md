@@ -8,13 +8,15 @@
 
 下载homebrew.pkg
 
-配置环境变量：`export PATH="/opt/homebrew/bin:$PATH"`
-
+配置环境变量：`export PATH="/opt/homebrew/bin:$PATH"`  
 注意在默认配置`export PATH="$HOME/.local/bin:$PATH"`前面，避免优先使用apple git
 
 配置镜像源：  
 `export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git"`  
 `export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"`
+
+配置zprofile：  
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 
 常用命令：  
 brew update      # 更新 Homebrew 本身和软件清单  
