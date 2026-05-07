@@ -10,6 +10,8 @@
 
 配置环境变量：`export PATH="/opt/homebrew/bin:$PATH"`
 
+注意在默认配置`export PATH="$HOME/.local/bin:$PATH"`前面，避免优先使用apple git
+
 ## Openclaw安装
 
 ### Node.js安装
