@@ -256,7 +256,7 @@ Help -> Troubleshooting -> Enable Developer Mode -> Enable
 <img width="1710" height="1107" alt="截屏2026-05-08 13 41 08" src="https://github.com/user-attachments/assets/6a4ad2cf-9d75-4e98-a2fe-86cdd63b08be" />
 
 Developer -> Configure Third-Party inference -> 配置Gateway base URL、Gateway API key和Model ID -> Apple locally
-<img width="1710" height="1107" alt="截屏2026-05-08 13 50 04" src="https://github.com/user-attachments/assets/eeb486a4-69bc-45f9-9ec9-58aaab74d11a" />
+<img width="1710" height="1107" alt="截屏2026-05-08 13 53 13" src="https://github.com/user-attachments/assets/7b2829c7-cd52-4931-8185-d576d075d662" />
 
 ---
 # Kimi
