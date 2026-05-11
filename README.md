@@ -16,7 +16,7 @@
 `export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"`
 
 配置zprofile：  
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+`echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile`
 
 常用命令：  
 brew update      # 更新 Homebrew 本身和软件清单  
